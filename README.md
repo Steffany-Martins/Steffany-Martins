@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffany-Martins&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/cahkei/cahkei/blob/output/github-contribution-grid-snake.svg" alt="SnaKeiko" />
+<img src="https://github.com/Steffany-Martins/Steffany-Martins/blob/output/github-contribution-grid-snake.svg" alt="SnaKeFanny" />
