@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@steffanymartins](https://www.linkedin.com/in/steffany-martins-soares-3abb94181/);
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Steffany-Martins&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <img src="https://github.com/Steffany-Martins/Steffany-Martins/blob/output/github-contribution-grid-snake.svg" alt="SnaKeiko" />
