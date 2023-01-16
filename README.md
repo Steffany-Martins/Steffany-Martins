@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [ste-9@hotmail.com](https://www.linkedin.com/in/steffany-martins-soares-3abb94181/);
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffany-Martins)](https://github.com/Steffany-Martins/github-readme-stats)
 
 <img src="https://github.com/Steffany-Martins/Steffany-Martins/blob/output/github-contribution-grid-snake.svg" alt="SnaKeiko" />
