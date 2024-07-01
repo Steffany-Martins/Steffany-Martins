@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 👩🏼‍💻 I am currently working with React and React Native;
 - 📚 I’m currently learning Typescript, React Universe and about World; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [ste-9@hotmail.com](https://www.linkedin.com/in/steffany-martins-soares-3abb94181/);
+- 📫 How to reach me: [steffanymartinssoares@outlook.com](https://www.linkedin.com/in/steffany-martins-soares-3abb94181/);
 
 
 <img src="https://github.com/Steffany-Martins/Steffany-Martins/blob/output/github-contribution-grid-snake.svg" alt="SnaKeiko" />
